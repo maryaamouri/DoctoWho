@@ -1,6 +1,5 @@
 # DoctoWho
-
-![image](https://github.com/maryaamouri/DoctoWho-NativeSQL/assets/82655833/824d7d5b-566c-4929-aa4b-343df7c485d9)
+[image](https://github.com/maryaamouri/DoctoWho-NativeSQL/assets/82655833/824d7d5b-566c-4929-aa4b-343df7c485d9)
 Requirements
 1. Create a DB named `DoctorWho`.
 2. Write scripts to create the above tables, keys, relationships and constraints.
@@ -24,3 +23,4 @@ Requirements
 9. Create a stored procedure called **`spSummariseEpisodes`** to show:
     - The 3 most frequently-appearing companions; then separately
     - The 3 most frequently-appearing enemies.
+
