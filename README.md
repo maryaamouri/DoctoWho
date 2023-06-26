@@ -1,5 +1,6 @@
 # DoctoWho
-[image](https://github.com/maryaamouri/DoctoWho-NativeSQL/assets/82655833/824d7d5b-566c-4929-aa4b-343df7c485d9)
+![image](https://github.com/maryaamouri/DoctoWho-NativeSQL/assets/82655833/1547c582-14cf-414c-8c64-b1207e550d61)
+
 Requirements
 1. Create a DB named `DoctorWho`.
 2. Write scripts to create the above tables, keys, relationships and constraints.
